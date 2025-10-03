@@ -1,4 +1,4 @@
-# Air Temperature Interpolation with Random Forests
+# Air Temperature Interpolation
 
 This repository contains Jupyter Notebooks implementing the workflow for air temperature (AT) interpolation using a Random Forest regression framework. The approach uses authoritative **ARPA** and crowdsourced **CML** meteorological station data, combined with geospatial and Earth Observation (EO) predictors. The study focuses on **heatwaves (HW)**, estimated from reanalysis data over Italy: [VHR-REA_IT](https://dds.cmcc.it/#/dataset/era5-downscaled-over-italy/hourly).
 
