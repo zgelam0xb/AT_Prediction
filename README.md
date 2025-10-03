@@ -1,8 +1,8 @@
 # Air Temperature Interpolation with Random Forests
 
-This repository contains Jupyter Notebooks implementing the workflow for air temperature (AT) interpolation using a Random Forest regression framework.  
-The approach leverages authoritative **ARPA** and crowdsourced **CML** meteorological station data, combined with geospatial and Earth Observation (EO) predictors.  
-The study focuses on **heatwaves (HW)**, estimated from reanalysis data over Italy: [VHR-REA_IT](https://dds.cmcc.it/#/dataset/era5-downscaled-over-italy/hourly).
+This repository contains Jupyter Notebooks implementing the workflow for air temperature (AT) interpolation using a Random Forest regression framework. The approach uses authoritative **ARPA** and crowdsourced **CML** meteorological station data, combined with geospatial and Earth Observation (EO) predictors. The study focuses on **heatwaves (HW)**, estimated from reanalysis data over Italy: [VHR-REA_IT](https://dds.cmcc.it/#/dataset/era5-downscaled-over-italy/hourly).
+
+Replicability: considering CML's availability in Lombardy.
 
 For more details, please refer to the published paper:  
 *"Predicting air temperature patterns in Milan using crowdsourced measurements and Earth Observation data"*,  
@@ -17,9 +17,18 @@ To replicate the methodology, you will need:
 
 ---
 
-## Repository Structure
-The notebooks are organized into three main steps:
+## Data statement
+We relied on high-quality local predictors when available; otherwise, European or global products were used. Please check the paper for details.
+CML data is not publicly available and was made available upon request from the CML Association.
 
-1. **CMCC reanalysis download and HW estimation**  
-2. **ARPA and CML preprocessing**  
-3. **Air Temperature (AT) interpolation**
+---
+
+## Repository Structure
+The notebooks are organised into three main steps:
+
+1. **CMCC reanalysis download and HW estimation**
+   The research was focused on the periods of extreme heat, i.e. HWs. They were estimated from a spatio-temporal climate reanalysis over Italy.
+   This notebook downloads CMCC data and estimates HWs based on the approach proposed by **[Perkins & Alexander (2013)](https://doi.org/10.1175/JCLI-D-12-00383.1)**
+3. **ARPA and CML preprocessing**
+   CML is a crowdsourced product. Quality control is crucial to ensure 
+5. **Air Temperature (AT) interpolation**
