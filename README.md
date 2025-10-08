@@ -17,7 +17,7 @@ CML data is not publicly available and was made available upon request from the 
 ---
 
 ## Notebooks replicability
-All notebooks besides **2. ARPA and CML preprocessing** can be replicated since raw CML data can't be shared.
+All notebooks besides CML quality control in **2. ARPA and CML preprocessing** can be replicated since raw CML data can't be shared.
 
 ---
 
