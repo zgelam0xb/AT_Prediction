@@ -1,0 +1,94 @@
+station,avg_temp,lat,long,source
+Arconate SMR,34.8,45.54852147,8.84732669,arpa
+Bereguardo Fornasetta,32.8,45.26278148,9.02191087,arpa
+Bergamo v.Stezzano,32.6,45.66052069,9.65876841,arpa
+Busto Arsizio v.Rossini,33.0,45.62639047,8.82388414,arpa
+Castello d'Agogna ,33.2,45.246802,8.7005692,arpa
+Cavaria con Premezzo v. Cantalupa,33.3,45.68949423,8.80769042,arpa
+Cavenago d'Adda,33.8,45.26927396,9.56265997,arpa
+Cinisello Balsamo Parco Nord,34.2,45.54266467,9.20560341,arpa
+Corsico v.le Italia,33.3,45.43611269,9.09741197,arpa
+Ferno v.Di Dio,32.5,45.61924753,8.75697656,arpa
+Lacchiarella v.Molise,33.5,45.32452314,9.1345295,arpa
+Landriano Cascina Marianna,35.6,45.32059361,9.26715311,arpa
+Lurago Marinone ,31.8,45.70496554,8.98833827,arpa
+Magenta cascina Mainaga,32.2,45.45806524,8.85440899,arpa
+Mariano Comense campo sportivo,31.4,45.6848834,9.1777692,arpa
+Milano Lambrate,34.0,45.49677982,9.2575154,arpa
+Milano P.zza Zavattari,33.9,45.47606529,9.14178666,arpa
+Milano v.Brera,32.8,45.47165828,9.18911083,arpa
+Milano v.Feltre,33.7,45.49163461,9.24873853,arpa
+Milano v.Juvara,32.6,45.47322769,9.22231536,arpa
+Milano v.Marche,32.8,45.49631883,9.19093444,arpa
+Misinto ,32.7,45.6613833,9.0663868,arpa
+Montevecchia cascina Butto,30.7,45.70479978,9.38387447,arpa
+Monza v.Monte Generoso,32.6,45.58862553,9.24580749,arpa
+Osio Sotto v.per Levate,30.4,45.62055632,9.6117382,arpa
+Osnago ,33.1,45.67769711,9.38855423,arpa
+Pogliano Milanese,31.8,45.53557672,9.00519996,arpa
+Rescaldina,32.0,45.60784534,8.95289668,arpa
+Rho Scalo Fiorenza - Prato,32.8,45.51781084,9.0879233,arpa
+Rivolta d'Adda,34.8,45.44409052,9.52068901,arpa
+Rodano v.Turati,33.0,45.47258192,9.35349644,arpa
+Sant'Angelo Lodigiano,34.1,45.26066731,9.37965968,arpa
+Saronno v.Santuario,32.9,45.62735705,9.02640138,arpa
+Vigevano SS494,32.7,45.34142636,8.87967586,arpa
+abbiategrasso,32.8,45.381389,8.911667,cml
+bollate,32.6,45.548056,9.120833,cml
+brignano,32.6,45.54,9.645,cml
+caleppio,32.9,45.436111,9.385,cml
+canegrate,32.4,45.575,8.921389,cml
+capergnanica,33.1,45.339167,9.648333,cml
+carimate,31.7,45.689167,9.121389,cml
+casarile,32.7,45.318333,9.1025,cml
+casorateprimo,32.9,45.294722,9.003056,cml
+cassano_adda,32.5,45.513889,9.509722,cml
+castano,32.3,45.558056,8.785278,cml
+ceriano_laghetto,31.6,45.632222,9.089722,cml
+cesate,32.0,45.598056,9.068056,cml
+cirimido,31.0,45.685278,9.011111,cml
+cisliano,32.8,45.460833,8.974444,cml
+corbetta,32.9,45.473333,8.921667,cml
+credera,33.2,45.305556,9.639167,cml
+cremosano,32.5,45.393889,9.642222,cml
+filago,31.5,45.642778,9.543333,cml
+geromina,33.9,45.538889,9.576667,cml
+gualdrasco,32.3,45.278333,9.201389,cml
+inveruno,32.5,45.513889,8.840833,cml
+lodi,32.6,45.298889,9.52,cml
+magherno,32.8,45.224167,9.332222,cml
+marcallo,32.4,45.495556,8.8825,cml
+mariano,31.2,45.686389,9.166111,cml
+mediglia,32.4,45.425556,9.365556,cml
+melegnano,32.3,45.366944,9.33,cml
+mi_arbe,32.2,45.501667,9.2,cml
+mi_boscoincitta,32.4,45.485278,9.091111,cml
+mi_genova,32.0,45.451667,9.170556,cml
+mi_parconord,32.5,45.538333,9.209722,cml
+mi_sanleonardo,32.1,45.498611,9.106111,cml
+mi_sansiro,32.1,45.470556,9.115833,cml
+monza,32.8,45.5825,9.291944,cml
+mortara_vvf,32.5,45.244444,8.712222,cml
+nizzolina,32.2,45.623889,8.911111,cml
+nosate,33.1,45.547778,8.721667,cml
+novamilanese,32.5,45.588056,9.1875,cml
+osnago,30.9,45.678333,9.400833,cml
+passarera,33.5,45.324167,9.647222,cml
+presezzo,32.0,45.697778,9.556944,cml
+rescaldina,31.9,45.617222,8.954722,cml
+rho,33.1,45.534167,9.056389,cml
+robecco,32.7,45.432222,8.885833,cml
+rovagnasco,32.5,45.500556,9.276944,cml
+samarate,31.6,45.606667,8.784167,cml
+sanangelo_lodigiano,33.2,45.233889,9.397778,cml
+seregno,31.3,45.6625,9.206667,cml
+settimo_mil,32.1,45.482222,9.049167,cml
+trescore_cremasco,32.5,45.408333,9.613889,cml
+tromello,33.4,45.211944,8.865833,cml
+uboldo,30.9,45.613056,8.996667,cml
+vidigulfo,32.6,45.299167,9.225833,cml
+vigevano,33.2,45.294722,8.854444,cml
+villasanta,32.2,45.616944,9.301111,cml
+vimodrone,32.8,45.516111,9.286667,cml
+vizzola,32.2,45.6525,8.684167,cml
+zerbolo,32.7,45.227222,8.985,cml

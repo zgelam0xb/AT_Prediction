@@ -1,0 +1,98 @@
+fid,Id,station,lat,long,dominant_class,dominant_pct,network,train/test,urban/natural,building_height,sensor_height,altitude,altitude1,Altitude-group
+23,2122,Sant'Angelo Lodigiano,45.26066731,9.37965968,104,90.91,ARPA,test,natural,0,1.5,60,61.5,50-100
+53,credera,credera,45.305556,9.639167,6,60.47,CML,train,urban,0,2.5,64,66.5,50-100
+4,2327,Cavenago d'Adda,45.26927396,9.56265997,106,78.26,ARPA,test,natural,0,1.5,67,68.5,50-100
+51,sanangelo_lodigiano,sanangelo_lodigiano,45.233889,9.397778,6,69.05,CML,train,urban,0,3,68,71,50-100
+61,magherno,magherno,45.224167,9.332222,6,93.18,CML,train,urban,0,2.5,73,75.5,50-100
+55,passarera,passarera,45.324167,9.647222,6,50,CML,train,urban,0,2.5,75,77.5,50-100
+52,capergnanica,capergnanica,45.339167,9.648333,6,83.72,CML,test,urban,0,2,78,80,50-100
+31,melegnano,melegnano,45.366944,9.33,104,54.55,CML,train,natural,0,2.1,84,86.1,50-100
+57,gualdrasco,gualdrasco,45.278333,9.201389,104,80.95,CML,test,natural,0,2,85,87,50-100
+9,2187,Landriano Cascina Marianna,45.32059361,9.26715311,104,56.52,ARPA,train,natural,0,1.5,88,89.5,50-100
+54,cremosano,cremosano,45.393889,9.642222,6,40,CML,train,urban,0,8,82,90,50-100
+50,lodi,lodi,45.298889,9.52,6,100,CML,train,urban,0,12,78,90,50-100
+56,trescore_cremasco,trescore_cremasco,45.408333,9.613889,6,38.3,CML,test,urban,0,5,86,91,50-100
+63,vidigulfo,vidigulfo,45.299167,9.225833,6,95.35,CML,train,urban,0,3,88,91,50-100
+25,8196,Vigevano SS494,45.34142636,8.87967586,107,39.53,ARPA,train,natural,0,2,94,96,50-100
+2,12716,Bereguardo Fornasetta,45.26278148,9.02191087,106,65.96,ARPA,train,natural,0,1.5,95,96.5,50-100
+62,tromello,tromello,45.211944,8.865833,6,97.78,CML,train,urban,0,2,96,98,50-100
+58,casorateprimo,casorateprimo,45.294722,9.003056,6,63.64,CML,test,urban,0,2,99,101,100-150
+30,mediglia,mediglia,45.425556,9.365556,6,40.48,CML,test,urban,0,2,99,101,100-150
+8,5910,Lacchiarella v.Molise,45.32452314,9.1345295,6,47.62,ARPA,train,urban,3,2,97,102,100-150
+60,zerbolo,zerbolo,45.227222,8.985,6,36.36,CML,test,urban,0,5,97,102,100-150
+21,2497,Rivolta d'Adda,45.44409052,9.52068901,104,63.04,ARPA,train,natural,0,1.5,102,103.5,100-150
+24,casarile,casarile,45.318333,9.1025,6,66.67,CML,train,urban,0,3,101,104,100-150
+64,vigevano,vigevano,45.294722,8.854444,6,88.64,CML,test,urban,0,2,102,104,100-150
+22,caleppio,caleppio,45.436111,9.385,6,97.78,CML,train,urban,0,3.5,101,104.5,100-150
+27,2361,Castello d'Agogna ,45.246802,8.7005692,106,56.82,ARPA,test,natural,0,2,106,108,100-150
+59,mortara_vvf,mortara_vvf,45.244444,8.712222,8,50,CML,train,urban,0,2.6,107,109.6,100-150
+20,abbiategrasso,abbiategrasso,45.381389,8.911667,6,37.78,CML,train,urban,0,2.5,110,112.5,100-150
+22,5917,Rodano v.Turati,45.47258192,9.35349644,6,42.22,ARPA,train,urban,3,1.5,112,116.5,100-150
+33,gaggiano,gaggiano,45.403056,9.028333,6,59.09,CML,train,urban,0,2.2,115,117.2,100-150
+6,5903,Corsico v.le Italia,45.43611269,9.09741197,8,57.45,ARPA,test,urban,0,1.5,119,120.5,100-150
+11,2001,Milano Lambrate,45.49677982,9.2575154,102,45.45,ARPA,train,natural,0,1.5,120,121.5,100-150
+45,rovagnasco,rovagnasco,45.500556,9.276944,104,58.7,CML,train,natural,0,2.5,122,124.5,100-150
+48,vignate,vignate,45.500278,9.380556,6,60.47,CML,test,urban,0,3,122,125,100-150
+44,robecco,robecco,45.432222,8.885833,6,84.44,CML,train,urban,0,3,123,126,100-150
+11,brignano,brignano,45.54,9.645,6,95.56,CML,train,urban,0,2,126,128,100-150
+14,8162,Milano v.Feltre,45.49163461,9.24873853,102,46.67,ARPA,train,natural,0,3,127,130,100-150
+25,cassano_adda,cassano_adda,45.513889,9.509722,6,79.07,CML,train,urban,0,3,127,130,100-150
+40,mi_sansiro,mi_sansiro,45.470556,9.115833,6,62.79,CML,test,urban,0,3,127,130,100-150
+49,vimodrone,vimodrone,45.516111,9.286667,3,32.56,CML,test,urban,0,2,128,130,100-150
+28,cisliano,cisliano,45.460833,8.974444,6,50,CML,train,urban,0,3,128,131,100-150
+16,5911,Milano v.Marche,45.49631883,9.19093444,5,63.64,ARPA,test,urban,2,1,129,132,100-150
+32,mi_boscoincitta,mi_boscoincitta,45.485278,9.091111,101,47.83,CML,train,natural,0,4,128,132,100-150
+47,settimo_mil,settimo_mil,45.482222,9.049167,8,61.7,CML,test,urban,0,4,130,134,100-150
+13,geromina,geromina,45.538889,9.576667,6,72.34,CML,test,urban,0,1.8,133,134.8,100-150
+37,mi_genova,mi_genova,45.451667,9.170556,2,85.11,CML,test,urban,0,19,117,136,100-150
+10,17488,Magenta cascina Mainaga,45.45806524,8.85440899,6,48.84,ARPA,train,urban,0,1.5,137,138.5,100-150
+38,mi_sanleonardo,mi_sanleonardo,45.498611,9.106111,6,37.78,CML,train,urban,0,3,136,139,100-150
+13,5897,Milano v.Brera,45.47165828,9.18911083,2,68.18,ARPA,train,urban,20,1.5,122,143.5,100-150
+5,4058,Cinisello Balsamo Parco Nord,45.54266467,9.20560341,102,76.19,ARPA,train,natural,0,1.8,142,143.8,100-150
+12,5920,Milano P.zza Zavattari,45.47606529,9.14178666,5,79.55,ARPA,train,urban,20,2,122,144,100-150
+20,14742,Rho Scalo Fiorenza - Prato,45.51781084,9.0879233,8,54.55,ARPA,train,urban,0,1.5,143,144.5,100-150
+29,corbetta,corbetta,45.473333,8.921667,6,87.23,CML,test,urban,0,5,140,145,100-150
+36,mi_parconord,mi_parconord,45.538333,9.209722,102,53.49,CML,test,natural,0,2.5,145,147.5,100-150
+39,mi_arbe,mi_arbe,45.501667,9.2,5,84.09,CML,train,urban,0,18,130,148,100-150
+46,sedriano,sedriano,45.495833,8.966389,6,100,CML,train,urban,0,2,149,151,150-200
+35,marcallo,marcallo,45.495556,8.8825,104,100,CML,train,natural,0,1.8,150,151.8,150-200
+15,5909,Milano v.Juvara,45.47322769,9.22231536,5,68.18,ARPA,train,urban,28,2,122,152,150-200
+41,nosate,nosate,45.547778,8.721667,106,36.36,CML,test,natural,0,3,153,156,150-200
+21,bollate,bollate,45.548056,9.120833,6,79.55,CML,train,urban,0,3,156,159,150-200
+43,rho,rho,45.534167,9.056389,5,93.18,CML,test,urban,0,2,158,160,150-200
+18,12759,Pogliano Milanese,45.53557672,9.00519996,104,50,ARPA,train,natural,0,2,160,162,150-200
+34,inveruno,inveruno,45.513889,8.840833,6,100,CML,train,urban,0,1.8,163,164.8,150-200
+17,12755,Monza v.Monte Generoso,45.58862553,9.24580749,102,62.79,ARPA,test,natural,0,1.5,173,174.5,150-200
+16,monza,monza,45.5825,9.291944,3,61.36,CML,train,urban,0,13,162,175,150-200
+19,villasanta,villasanta,45.616944,9.301111,6,65.12,CML,train,urban,0,4,175,179,150-200
+1,vizzola,vizzola,45.6525,8.684167,102,77.27,CML,train,natural,0,2,178,180,150-200
+1,4066,Arconate SMR,45.54852147,8.84732669,6,68.09,ARPA,train,urban,0,1.5,182,183.5,150-200
+30,5865,Osio Sotto v.per Levate,45.62055632,9.6117382,104,64.44,ARPA,train,natural,3,1.5,182,186.5,150-200
+26,castano,castano,45.558056,8.785278,6,84.09,CML,train,urban,0,6,189,195,150-200
+12,filago,filago,45.642778,9.543333,8,44.68,CML,train,urban,0,2,196,198,150-200
+17,novamilanese,novamilanese,45.588056,9.1875,6,81.4,CML,train,urban,0,25,173,198,150-200
+23,canegrate,canegrate,45.575,8.921389,6,100,CML,train,urban,0,3,197,200,200-250
+27,cesate,cesate,45.598056,9.068056,6,79.07,CML,train,urban,0,2.5,200,202.5,200-250
+26,2433,Bergamo v.Stezzano,45.66052069,9.65876841,106,52.17,ARPA,train,natural,0,1.5,211,212.5,200-250
+24,10551,Saronno v.Santuario,45.62735705,9.02640138,6,50,ARPA,train,urban,0,1.5,212,213.5,200-250
+4,samarate,samarate,45.606667,8.784167,6,73.33,CML,test,urban,0,1.8,212,213.8,200-250
+7,7029,Ferno v.Di Dio,45.61924753,8.75697656,6,90.7,ARPA,train,urban,0,1.5,215,216.5,200-250
+19,12757,Rescaldina,45.60784534,8.95289668,6,50,ARPA,test,urban,0,1.5,215,216.5,200-250
+5,uboldo,uboldo,45.613056,8.996667,6,89.36,CML,train,urban,0,10,207,217,200-250
+3,nizzolina,nizzolina,45.623889,8.911111,6,85.71,CML,train,urban,0,2,226,228,200-250
+42,rescaldina,rescaldina,45.617222,8.954722,6,72.73,CML,train,urban,0,3,225,228,200-250
+15,ceriano_laghetto,ceriano_laghetto,45.632222,9.089722,106,51.11,CML,train,natural,0,2,228,230,200-250
+31,9021,Osnago ,45.67769711,9.38855423,5,54.55,ARPA,test,urban,0,1.5,234,235.5,200-250
+6,carimate,carimate,45.689167,9.121389,102,59.09,CML,test,natural,0,8,232,240,200-250
+18,seregno,seregno,45.6625,9.206667,6,88.64,CML,train,urban,0,4,237,241,200-250
+3,8220,Busto Arsizio v.Rossini,45.62639047,8.82388414,104,58.14,ARPA,train,natural,0,3,242,245,200-250
+7,mariano,mariano,45.686389,9.166111,102,40.91,CML,train,natural,0,2.5,243,245.5,200-250
+14,presezzo,presezzo,45.697778,9.556944,8,100,CML,train,urban,0,2,247,249,200-250
+28,8212,Misinto ,45.6613833,9.0663868,8,57.78,ARPA,test,urban,0,3,247,250,200-250
+10,osnago,osnago,45.678333,9.400833,6,69.77,CML,train,urban,0,1.85,254,255.85,250-400
+33,19426,Mariano Comense campo sportivo,45.6848834,9.1777692,6,95.35,ARPA,test,urban,0,2.3,255,257.3,250-400
+2,crenna,crenna,45.681667,8.798889,6,65.22,CML,train,urban,0,2,258,260,250-400
+34,9027,Cavaria con Premezzo v. Cantalupa,45.68949423,8.80769042,6,79.07,ARPA,train,urban,0,1.5,274,275.5,250-400
+8,cirimido,cirimido,45.685278,9.011111,106,47.73,CML,train,natural,0,10,270,280,250-400
+32,9026,Lurago Marinone ,45.70496554,8.98833827,6,79.55,ARPA,train,urban,0,1.7,296,297.7,250-400
+29,2595,Montevecchia cascina Butto,45.70479978,9.38387447,102,55.32,ARPA,test,natural,0,1.5,385,386.5,250-400

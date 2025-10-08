@@ -1,0 +1,93 @@
+station,avg_temp,lat,long,source
+Arconate SMR,16.3,45.54852147,8.84732669,arpa
+Bereguardo Fornasetta,18.3,45.26278148,9.02191087,arpa
+Bergamo v.Stezzano,18.5,45.66052069,9.65876841,arpa
+Busto Arsizio v.Rossini,15.9,45.62639047,8.82388414,arpa
+Castello d'Agogna ,18.1,45.246802,8.7005692,arpa
+Cavaria con Premezzo v. Cantalupa,16.4,45.68949423,8.80769042,arpa
+Cavenago d'Adda,18.5,45.26927396,9.56265997,arpa
+Cinisello Balsamo Parco Nord,16.5,45.54266467,9.20560341,arpa
+Corsico v.le Italia,18.1,45.43611269,9.09741197,arpa
+Ferno v.Di Dio,16.2,45.61924753,8.75697656,arpa
+Landriano Cascina Marianna,20.4,45.32059361,9.26715311,arpa
+Lurago Marinone ,16.6,45.70496554,8.98833827,arpa
+Magenta cascina Mainaga,17.3,45.45806524,8.85440899,arpa
+Mariano Comense campo sportivo,17.4,45.6848834,9.1777692,arpa
+Milano Lambrate,19.0,45.49677982,9.2575154,arpa
+Milano P.zza Zavattari,20.5,45.47606529,9.14178666,arpa
+Milano v.Brera,20.9,45.47165828,9.18911083,arpa
+Milano v.Feltre,19.0,45.49163461,9.24873853,arpa
+Milano v.Juvara,21.3,45.47322769,9.22231536,arpa
+Milano v.Marche,21.0,45.49631883,9.19093444,arpa
+Misinto ,17.2,45.6613833,9.0663868,arpa
+Montevecchia cascina Butto,18.1,45.70479978,9.38387447,arpa
+Monza v.Monte Generoso,18.4,45.58862553,9.24580749,arpa
+Osio Sotto v.per Levate,18.9,45.62055632,9.6117382,arpa
+Osnago ,16.1,45.67769711,9.38855423,arpa
+Pogliano Milanese,17.6,45.53557672,9.00519996,arpa
+Rescaldina,17.1,45.60784534,8.95289668,arpa
+Rho Scalo Fiorenza - Prato,19.7,45.51781084,9.0879233,arpa
+Rivolta d'Adda,18.9,45.44409052,9.52068901,arpa
+Rodano v.Turati,19.8,45.47258192,9.35349644,arpa
+Sant'Angelo Lodigiano,18.4,45.26066731,9.37965968,arpa
+Saronno v.Santuario,18.0,45.62735705,9.02640138,arpa
+Vigevano SS494,18.0,45.34142636,8.87967586,arpa
+abbiategrasso,18.7,45.381389,8.911667,cml
+bollate,18.2,45.548056,9.120833,cml
+brignano,19.2,45.54,9.645,cml
+caleppio,20.2,45.436111,9.385,cml
+canegrate,18.9,45.575,8.921389,cml
+capergnanica,20.1,45.339167,9.648333,cml
+carimate,16.5,45.689167,9.121389,cml
+casorateprimo,18.7,45.294722,9.003056,cml
+cassano_adda,18.9,45.513889,9.509722,cml
+castano,16.7,45.558056,8.785278,cml
+ceriano_laghetto,15.5,45.632222,9.089722,cml
+cesate,19.0,45.598056,9.068056,cml
+cirimido,17.3,45.685278,9.011111,cml
+cisliano,19.0,45.460833,8.974444,cml
+corbetta,19.9,45.473333,8.921667,cml
+credera,19.5,45.305556,9.639167,cml
+cremosano,20.2,45.393889,9.642222,cml
+filago,18.1,45.642778,9.543333,cml
+gaggiano,18.4,45.403056,9.028333,cml
+geromina,18.3,45.538889,9.576667,cml
+gualdrasco,19.3,45.278333,9.201389,cml
+inveruno,18.3,45.513889,8.840833,cml
+lodi,20.4,45.298889,9.52,cml
+magherno,18.9,45.224167,9.332222,cml
+marcallo,17.2,45.495556,8.8825,cml
+mariano,14.1,45.686389,9.166111,cml
+mediglia,19.7,45.425556,9.365556,cml
+melegnano,18.3,45.366944,9.33,cml
+mi_arbe,20.9,45.501667,9.2,cml
+mi_boscoincitta,17.2,45.485278,9.091111,cml
+mi_genova,20.7,45.451667,9.170556,cml
+mi_sanleonardo,17.7,45.498611,9.106111,cml
+mi_sansiro,19.0,45.470556,9.115833,cml
+monza,20.4,45.5825,9.291944,cml
+mortara_vvf,18.9,45.244444,8.712222,cml
+nizzolina,17.2,45.623889,8.911111,cml
+nosate,15.5,45.547778,8.721667,cml
+novamilanese,19.1,45.588056,9.1875,cml
+osnago,17.6,45.678333,9.400833,cml
+passarera,18.9,45.324167,9.647222,cml
+presezzo,18.2,45.697778,9.556944,cml
+rescaldina,17.3,45.617222,8.954722,cml
+rho,19.6,45.534167,9.056389,cml
+robecco,18.0,45.432222,8.885833,cml
+rovagnasco,17.8,45.500556,9.276944,cml
+samarate,16.5,45.606667,8.784167,cml
+sanangelo_lodigiano,18.6,45.233889,9.397778,cml
+seregno,18.1,45.6625,9.206667,cml
+settimo_mil,18.9,45.482222,9.049167,cml
+trescore_cremasco,20.0,45.408333,9.613889,cml
+tromello,18.2,45.211944,8.865833,cml
+uboldo,17.9,45.613056,8.996667,cml
+vidigulfo,18.7,45.299167,9.225833,cml
+vigevano,19.1,45.294722,8.854444,cml
+vignate,19.5,45.500278,9.380556,cml
+villasanta,17.2,45.616944,9.301111,cml
+vimodrone,19.1,45.516111,9.286667,cml
+vizzola,15.4,45.6525,8.684167,cml
+zerbolo,15.9,45.227222,8.985,cml

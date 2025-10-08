@@ -1,0 +1,96 @@
+station,avg_temp,lat,long,source
+Arconate SMR,30.8,45.54852147,8.84732669,arpa
+Bereguardo Fornasetta,29.2,45.26278148,9.02191087,arpa
+Bergamo v.Stezzano,30.2,45.66052069,9.65876841,arpa
+Busto Arsizio v.Rossini,29.1,45.62639047,8.82388414,arpa
+Castello d'Agogna ,29.0,45.246802,8.7005692,arpa
+Cavaria con Premezzo v. Cantalupa,29.7,45.68949423,8.80769042,arpa
+Cavenago d'Adda,29.3,45.26927396,9.56265997,arpa
+Cinisello Balsamo Parco Nord,30.6,45.54266467,9.20560341,arpa
+Corsico v.le Italia,30.4,45.43611269,9.09741197,arpa
+Ferno v.Di Dio,29.4,45.61924753,8.75697656,arpa
+Lacchiarella v.Molise,30.9,45.32452314,9.1345295,arpa
+Landriano Cascina Marianna,30.8,45.32059361,9.26715311,arpa
+Lurago Marinone ,29.3,45.70496554,8.98833827,arpa
+Magenta cascina Mainaga,30.6,45.45806524,8.85440899,arpa
+Mariano Comense campo sportivo,30.4,45.6848834,9.1777692,arpa
+Milano Lambrate,31.5,45.49677982,9.2575154,arpa
+Milano P.zza Zavattari,32.9,45.47606529,9.14178666,arpa
+Milano v.Brera,32.2,45.47165828,9.18911083,arpa
+Milano v.Feltre,31.9,45.49163461,9.24873853,arpa
+Milano v.Juvara,32.5,45.47322769,9.22231536,arpa
+Milano v.Marche,32.6,45.49631883,9.19093444,arpa
+Misinto ,30.2,45.6613833,9.0663868,arpa
+Montevecchia cascina Butto,29.1,45.70479978,9.38387447,arpa
+Monza v.Monte Generoso,30.8,45.58862553,9.24580749,arpa
+Osio Sotto v.per Levate,29.3,45.62055632,9.6117382,arpa
+Osnago ,28.8,45.67769711,9.38855423,arpa
+Pogliano Milanese,30.4,45.53557672,9.00519996,arpa
+Rescaldina,30.4,45.60784534,8.95289668,arpa
+Rho Scalo Fiorenza - Prato,31.9,45.51781084,9.0879233,arpa
+Rivolta d'Adda,30.5,45.44409052,9.52068901,arpa
+Rodano v.Turati,31.6,45.47258192,9.35349644,arpa
+Sant'Angelo Lodigiano,31.4,45.26066731,9.37965968,arpa
+Saronno v.Santuario,30.4,45.62735705,9.02640138,arpa
+Vigevano SS494,29.7,45.34142636,8.87967586,arpa
+abbiategrasso,30.8,45.381389,8.911667,cml
+bollate,30.7,45.548056,9.120833,cml
+brignano,30.6,45.54,9.645,cml
+caleppio,31.3,45.436111,9.385,cml
+canegrate,30.4,45.575,8.921389,cml
+capergnanica,31.5,45.339167,9.648333,cml
+carimate,30.2,45.689167,9.121389,cml
+casarile,30.4,45.318333,9.1025,cml
+casorateprimo,29.9,45.294722,9.003056,cml
+cassano_adda,30.8,45.513889,9.509722,cml
+castano,30.1,45.558056,8.785278,cml
+ceriano_laghetto,29.2,45.632222,9.089722,cml
+cesate,30.8,45.598056,9.068056,cml
+cirimido,29.3,45.685278,9.011111,cml
+cisliano,30.9,45.460833,8.974444,cml
+corbetta,31.4,45.473333,8.921667,cml
+credera,31.7,45.305556,9.639167,cml
+cremosano,31.2,45.393889,9.642222,cml
+crenna,29.7,45.681667,8.798889,cml
+filago,29.7,45.642778,9.543333,cml
+gaggiano,30.9,45.403056,9.028333,cml
+geromina,30.0,45.538889,9.576667,cml
+gualdrasco,30.2,45.278333,9.201389,cml
+inveruno,30.6,45.513889,8.840833,cml
+lodi,31.3,45.298889,9.52,cml
+magherno,30.1,45.224167,9.332222,cml
+marcallo,30.0,45.495556,8.8825,cml
+mariano,27.8,45.686389,9.166111,cml
+mediglia,31.1,45.425556,9.365556,cml
+melegnano,30.4,45.366944,9.33,cml
+mi_arbe,32.2,45.501667,9.2,cml
+mi_boscoincitta,29.9,45.485278,9.091111,cml
+mi_genova,31.4,45.451667,9.170556,cml
+mi_parconord,31.6,45.538333,9.209722,cml
+mi_sanleonardo,28.6,45.498611,9.106111,cml
+mi_sansiro,31.8,45.470556,9.115833,cml
+monza,32.3,45.5825,9.291944,cml
+mortara_vvf,30.5,45.244444,8.712222,cml
+nizzolina,30.0,45.623889,8.911111,cml
+nosate,30.2,45.547778,8.721667,cml
+novamilanese,30.8,45.588056,9.1875,cml
+osnago,29.7,45.678333,9.400833,cml
+passarera,30.5,45.324167,9.647222,cml
+presezzo,30.7,45.697778,9.556944,cml
+rescaldina,29.9,45.617222,8.954722,cml
+rho,31.7,45.534167,9.056389,cml
+robecco,30.1,45.432222,8.885833,cml
+rovagnasco,31.1,45.500556,9.276944,cml
+samarate,29.5,45.606667,8.784167,cml
+sanangelo_lodigiano,31.4,45.233889,9.397778,cml
+seregno,30.4,45.6625,9.206667,cml
+trescore_cremasco,30.6,45.408333,9.613889,cml
+tromello,30.2,45.211944,8.865833,cml
+uboldo,30.2,45.613056,8.996667,cml
+vidigulfo,30.3,45.299167,9.225833,cml
+vigevano,30.7,45.294722,8.854444,cml
+vignate,31.3,45.500278,9.380556,cml
+villasanta,30.8,45.616944,9.301111,cml
+vimodrone,31.0,45.516111,9.286667,cml
+vizzola,28.7,45.6525,8.684167,cml
+zerbolo,29.2,45.227222,8.985,cml
