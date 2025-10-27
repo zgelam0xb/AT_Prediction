@@ -5,8 +5,8 @@ This repository contains Jupyter Notebooks implementing the workflow for AT pred
 ---
 
 For more details, please refer to the published paper:  
-*"Predicting air temperature patterns in Milan using crowdsourced measurements and Earth Observation data"*,  
-_Remote Sensing_, DOI: **https://doi.org/10.3390/rs17213520**.
+Žgela, M., Vavassori, A., & Brovelli, M. A. (2025). _Predicting Air Temperature Patterns in Milan Using Crowdsourced Measurements and Earth Observation Data_. Remote Sensing, 17(21), 3520.
+DOI: **https://doi.org/10.3390/rs17213520**.
 
 ---
 
